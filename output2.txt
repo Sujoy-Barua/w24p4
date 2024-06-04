@@ -1,0 +1,101 @@
+Size of GHJ result: 20 pages
+Page 0 with disk id = 0
+Record with key=0 and data=0l
+Record with key=1 and data=1l
+Record with key=1 and data=11l
+Record with key=1 and data=111l
+Page 1 with disk id = 1
+Record with key=0 and data=0r
+Record with key=1 and data=1r
+Record with key=1 and data=11r
+Record with key=2 and data=22r
+Page 2 with disk id = 0
+Record with key=0 and data=0l
+Record with key=1 and data=1l
+Record with key=1 and data=11l
+Record with key=1 and data=111l
+Page 3 with disk id = 1
+Record with key=0 and data=0r
+Record with key=1 and data=1r
+Record with key=1 and data=11r
+Record with key=2 and data=22r
+Page 4 with disk id = 0
+Record with key=0 and data=0l
+Record with key=1 and data=1l
+Record with key=1 and data=11l
+Record with key=1 and data=111l
+Page 5 with disk id = 1
+Record with key=0 and data=0r
+Record with key=1 and data=1r
+Record with key=1 and data=11r
+Record with key=2 and data=22r
+Page 6 with disk id = 0
+Record with key=0 and data=0l
+Record with key=1 and data=1l
+Record with key=1 and data=11l
+Record with key=1 and data=111l
+Page 7 with disk id = 1
+Record with key=0 and data=0r
+Record with key=1 and data=1r
+Record with key=1 and data=11r
+Record with key=2 and data=22r
+Page 8 with disk id = 0
+Record with key=0 and data=0l
+Record with key=1 and data=1l
+Record with key=1 and data=11l
+Record with key=1 and data=111l
+Page 9 with disk id = 1
+Record with key=0 and data=0r
+Record with key=1 and data=1r
+Record with key=1 and data=11r
+Record with key=2 and data=22r
+Page 10 with disk id = 0
+Record with key=0 and data=0l
+Record with key=1 and data=1l
+Record with key=1 and data=11l
+Record with key=1 and data=111l
+Page 11 with disk id = 1
+Record with key=0 and data=0r
+Record with key=1 and data=1r
+Record with key=1 and data=11r
+Record with key=2 and data=22r
+Page 12 with disk id = 0
+Record with key=0 and data=0l
+Record with key=1 and data=1l
+Record with key=1 and data=11l
+Record with key=1 and data=111l
+Page 13 with disk id = 1
+Record with key=0 and data=0r
+Record with key=1 and data=1r
+Record with key=1 and data=11r
+Record with key=2 and data=22r
+Page 14 with disk id = 0
+Record with key=0 and data=0l
+Record with key=1 and data=1l
+Record with key=1 and data=11l
+Record with key=1 and data=111l
+Page 15 with disk id = 1
+Record with key=0 and data=0r
+Record with key=1 and data=1r
+Record with key=1 and data=11r
+Record with key=2 and data=22r
+Page 16 with disk id = 0
+Record with key=0 and data=0l
+Record with key=1 and data=1l
+Record with key=1 and data=11l
+Record with key=1 and data=111l
+Page 17 with disk id = 1
+Record with key=0 and data=0r
+Record with key=1 and data=1r
+Record with key=1 and data=11r
+Record with key=2 and data=22r
+Page 18 with disk id = 0
+Record with key=0 and data=0l
+Record with key=1 and data=1l
+Record with key=1 and data=11l
+Record with key=1 and data=111l
+Page 19 with disk id = 1
+Record with key=0 and data=0r
+Record with key=1 and data=1r
+Record with key=1 and data=11r
+Record with key=2 and data=22r
